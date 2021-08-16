@@ -10,13 +10,13 @@ export default class Header extends Component {
                     </div>
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
-                            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Profile</a>
+                            <a class="nav-link disabled" href="http://localhost:3000/" tabindex="-1" aria-disabled="true">Profile</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Name</a>
+                            <a class="nav-link disabled" href="http://localhost:3000/" tabindex="-1" aria-disabled="true">Name</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Adress</a>
+                            <a class="nav-link disabled" href="http://localhost:3000/" tabindex="-1" aria-disabled="true">Adress</a>
                         </li>
                     </ul>
                 </nav>
